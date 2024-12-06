@@ -1,11 +1,17 @@
 1. Overview of the Project
 Goal:
 Detect the language of a given text input using a trained machine learning model.
+
 Technologies Used:
+
 Scikit-learn: For training the machine learning model.
+
 FastAPI: For building a REST API to serve predictions.
+
 Pickle: For saving and loading the trained machine learning model.
+
 Docker: For containerizing the FastAPI app.
+
 Heroku: For deploying the API to the cloud.
 
 
