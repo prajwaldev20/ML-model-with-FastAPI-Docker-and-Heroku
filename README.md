@@ -27,3 +27,12 @@ Deploy the API:
 
 Use Docker to containerize the FastAPI app.
 Deploy the containerized app to Heroku for public access.
+
+
+Screenshots:
+![Language detection GET](https://github.com/user-attachments/assets/9a33ddcd-0053-4a11-b846-8073e14c0e79)
+
+![ML language detection POST](https://github.com/user-attachments/assets/f4c59901-a0d9-4714-8073-2dac53df93fc)
+
+
+
