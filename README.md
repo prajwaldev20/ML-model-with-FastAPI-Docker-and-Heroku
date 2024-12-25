@@ -1,4 +1,4 @@
-1. Overview of the Project
+## 1. Overview of the Project
 Goal:
 Detect the language of a given text input using a trained machine learning model.
 
