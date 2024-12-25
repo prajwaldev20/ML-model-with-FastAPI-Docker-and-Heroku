@@ -1,8 +1,7 @@
 ## 1. Overview of the Project
-Goal:
-Detect the language of a given text input using a trained machine learning model.
+**Goal: Detect the language of a given text input using a trained machine learning model.**
 
-Technologies Used:
+**Technologies Used:**
 
 Scikit-learn: For training the machine learning model.
 
@@ -15,8 +14,8 @@ Docker: For containerizing the FastAPI app.
 Heroku: For deploying the API to the cloud.
 
 
-2. Workflow Overview
-Build and Train the Model:
+## 2. Workflow Overview
+**Build and Train the Model:**
 
 Use scikit-learn to preprocess the text data and train a Naive Bayes classifier for language detection.
 Save the trained pipeline to a file using pickle.
